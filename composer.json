@@ -1,0 +1,23 @@
+{
+    "name": "raju/laravelpackage",
+    "require": {
+        "ext-pdo_mysql": "*",
+        "phpunit/phpunit": "^11.3"
+    },
+    "license": "mysql",
+    "autoload": {
+        "psr-4": {
+            "Raju\\Laravelpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raju Kumar",
+            "email": "rajukumarpandi82520@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+
+    
+    
+}
