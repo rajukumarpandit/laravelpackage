@@ -7,7 +7,7 @@
     "license": "mysql",
     "autoload": {
         "psr-4": {
-            "Raju\\Laravelpackage\\": "src/"
+            "Raju\\Laravelpackage\\": "src/app"
         }
     },
     "authors": [
